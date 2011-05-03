@@ -1,0 +1,315 @@
+;*********************************
+; Quote on Table 3.0 
+;********************************* 
+; "Russian-English Proverbs"
+; by Natalia
+; http://pskov.freeyellow.com/
+;*********************************
+
+EN> Actions speak louder than words. 
+RU> A man is judged by his deeds, not 
+by his words. 
+
+EN> After a storm comes a calm. 
+RU> The sun will shine into our yard too. 
+
+EN> After a meat comes mustard.
+RU> One does not sharpen the axes 
+(after the right time they are needed).
+
+EN> After rain comes fair weather.
+RU>  After a storm (comes) fair weather, 
+after sorrow (comes) joy.
+
+EN> All are not thieves that dogs bark at.
+RU>  All are not cooks that walk with long 
+knives.
+
+EN> All cats are gray in the dark.
+RU>  All cats are gray at night.
+
+EN> All in good time.
+RU>  Every seed knows its time.
+
+EN> All is fish that comes to the net.
+RU>  Any fish is good if it is on the hook.
+
+EN> All lay loads on a willing horse.
+RU>  The one who draws (a cart) is urged on.
+
+EN> All roads lead to Rome.
+RU>  All roads lead to Rome.
+
+EN> All's well that ends well.
+RU>  All's well that ends well.
+
+EN> All that glitters is not gold.
+RU> All is not gold that glitters.
+
+EN> Among friends all things are common.
+RU> (One does not regret giving) one's own 
+ear-ring to one's dear friend.
+
+EN> The appetite comes with eating.
+RU>  The appetite comes during a meal.
+
+EN> An apple a day keeps the doctor away.
+RU>  Onion treats seven ailments.
+
+EN> As you brew, so you must drink.
+RU> As you cooked the porridge, 
+so must you eat it.
+
+EN> As you make your bed, so you must lie on it.
+RU>  As you make you bed, so you will sleep.
+
+EN> As you sow, so you reap.
+RU>  You will reap what you will sow.
+
+EN> A bad workman always blames his tools.  
+RU>  It is a bad workman that has a bad saw.  
+
+EN> The bait hides the hook.  
+RU> One may make up a soft bed (for somebody), 
+but still it will be hard to sleep in.  
+
+EN> Barking dogs seldom bite.  
+RU> You needn't be afraid of a barking dog, 
+but you should be afraid of a silent dog.  
+
+EN> The best is often the enemy of the good.  
+RU>  One does not look for good from good.  
+
+EN> Better an egg today than a hen tomorrow.  
+EN> Better a dove on the plate than a wood 
+grouse in the mating place.  
+
+EN> Better bend the neck than bruise the forehead.  
+RU> You cannot break through a wall with your 
+forehead.  
+
+EN> Better late than never.  
+RU>  Better late than never.  
+
+EN> Better the foot slip than the tongue.  
+RU>   Better to stumble than make a slip of tongue.  
+
+EN> Between two stools you fall to the ground.  
+RU> One who sits between two chairs may easily 
+fall down.  
+
+EN> Beware of silent man and still water.  
+RU>  Beware of a quiet dog and still water.  
+
+EN> A bird in the hand is worth two in the bush.  
+RU> A sparrow in the hand is better than 
+a cock on the roof.  
+
+EN> A bird may be known by its song.  
+RU>  A bird may be known by its flight.  
+
+EN> Birds of a feather flock together.  
+RU>  One fisherman sees another from afar.  
+
+EN> The bull must be taken by the horns.  
+RU>  Take the bull by the horns.  
+
+EN> The burnt child dreads the fire.  
+RU> Once burned by milk you will blow 
+on cold water.  
+
+EN> By doing nothing we learn to do ill.  
+RU>   Idleness is the mother of all vices.   
+
+EN> A cat in gloves catches no mice.   
+RU>  You can not pull a fish out a 
+pond without labor.  
+
+EN> A cat may look at a king.  
+RU> No money is taken for just looking 
+(at somebody or something).
+
+EN> The cat shuts its eyes when it steals 
+the cream.  
+RU>  He would exclaim "Ah!" looking at 
+himself.  
+
+EN> The cat would eat fish and would not wet her feet.  
+RU>  One would like to eat fish, but not like to 
+get into the water.  
+
+EN> A chain is no stronger than its weakest link.  
+RU> Where something is thin, that's where it tears.  
+
+EN> A closed mouth catches no flies.  
+RU>  A fly will not get into a closed mouth.  
+
+EN> The cobbler should stick to his last.  
+RU>  There will be trouble if the cobbler 
+starts making pies.  
+
+EN> A cock is bold on his own dunghill.  
+RU>  Any sandpiper is great in his own swamp.  
+
+EN> Constant dropping wears away a stone.  
+RU>  A drop hollows out a stone.  
+
+EN> The cow knows not the worth of her tail 
+till she loses it.  
+RU> We do not care of what we have, but we 
+cry when it is lost.  
+
+EN> The cowl does not make the monk.  
+RU>  Not everyone who has a cowl on is a monk.  
+
+EN> Curiosity killed the cat.  
+RU>  Curious Varvara's nose was torn off.  
+
+EN> Curses like chickens come home to roost.  
+RU> Do not dig a hole for somebody else; you 
+yourself will fall into it.  
+
+EN> Curst cows have curt horns.  
+RU>  God does not give horns to a cow that butts.  
+
+EN> Cut your coat according to your cloth.  
+RU>  Stretch your legs according to your clothes.  
+
+EN> The darkest hours is that before the dawn.  
+RU>  Stormy weather cannot stay all the time, 
+the red sun will come out, too.  
+
+EN> Desperate diseases call for desperate remedies.  
+RU>  You need a sharp axe for a tough bough.  
+
+EN> The devil is not so black as he is painted.  
+RU>  The devil is not so frightful as he is painted.
+
+EN> Diamond cut diamond.  
+RU> The scythe ran into a stone.  
+
+EN> Discretion is the better part of valor.  
+RU>  God takes care of the one who takes care 
+of himself.
+
+EN> Dog doesn't eat dog.  
+RU> A wolf won't eat a wolf.  
+
+EN> Do not cry till you are out of the wood.  
+RU> Do not praise yourself while going into battle; 
+praise yourself coming out of battle.  
+
+EN> Do not spur a willing horse.  
+RU> You do not need a whip to urge 
+on an obedient horse.  
+
+EN> Do not wash your dirty linen in public.  
+RU> Do not carry rubbish out of your hut.  
+
+EN> Don't bite off more than you can chew.  
+RU>  Cut down the tree that you are able to.  
+
+EN> Don't carry coals to Newcastle.  
+RU>  One does not go to Tula with one's 
+own samovar.  
+
+EN> Don't count your chickens before 
+they are hatched.  
+RU> Chickens are counted in autumn.  
+
+EN> Don't cross a bridge before you come to it.  
+RU>  There will come a time when the seed 
+will sprout.  
+
+EN> Don't cut the bough you are standing on.  
+RU>  Do not cut the bough you are sitting on.  
+
+EN> Don't have thy cloak to make when it begins to rain.  
+RU>  The peasant will not cross himself before 
+it begins to thunder.  
+
+EN> Don't look a gift horse in the mouth.  
+RU>   Do not look at gift horse's mouth.  
+
+EN> Don't make a mountain out of a molehill.  
+RU> Do not make an elephant out of fly.  
+
+EN> Don't measure other people's corn 
+by your own bushel. 
+RU>  Do not measure (others) by your 
+own arshin (=28 inches).  
+
+EN> Don't play with fire. 
+RU>  Don't play with fire - you will 
+burn yourself.  
+
+EN> Don't put the cart before the horse.  
+RU>   Do not plant a tree with its root upward.  
+
+EN> Don't strike a man when he is down.  
+RU>   A man should not be struck when he is down.  
+
+EN> Don't swap horses in the middle of the stream.  
+RU>  You do not swap horses while crossing the ford.  
+
+EN> Don't teach a fish to swim.  
+RU> Do not teach a pike to swim, 
+a pike knows his own science.  
+
+EN> Don't teach your grandmother to suck eggs.  
+RU> Eggs cannot teach a hen.  
+
+EN> A drowning man will clutch at a straw.  
+RU>  A drowning man clutches at a straw.   
+
+EN> The early bird catches the worm.  
+RU>  God gives to those who get up early.  
+
+EN> East or west, home is best.  
+RU> It is good to be visiting, but 
+it is better at home.  
+
+EN> Empty vessels make the greatest sound.  
+RU>  An empty barrel makes the greatest sound.   
+
+EN> The end crowns the work.  
+RU>  The end is the crown of any work.   
+
+EN> An Englishman's home is his castle.  
+RU>  One is one's own master on one's own stove.  
+
+EN> Every ass likes to hear himself bray.  
+RU>  The tongue speaks, but the head doesn't know.  
+
+EN> Every birds likes its own nest best.  
+RU>  Every sandpiper praises its own swamp.  
+
+EN> Every cloud has silver lining.  
+RU>  There is no evil without good.  
+
+EN> Every cook praises his own broth.  
+RU>  Every merchant praises his own goods.  
+
+EN> Every day is not Sunday.  
+RU> (Life is) not always Shrove-tide 
+for a cat, there will also be Lent.  
+
+EN> Every dog has his day.  
+RU> There will be a festival 
+in our street too.  
+
+EN> Every family has a skeleton in the cupboard.  
+RU>  Every hut has its own rattles.  
+
+EN> Every flow has its ebb.  
+RU>  Good fortune and bad fortune travel 
+in the same sledge.  
+
+EN> Every man has a fool in his sleeve.  
+RU>  There is enough simplicity in every wise man.  
+
+EN> Every man is the architect of his own fortune.  
+RU>  Every man is the blacksmith of his fortune.  
+
+EN> Every medal has its reverse.  
+RU>  Every medal has two sides.  

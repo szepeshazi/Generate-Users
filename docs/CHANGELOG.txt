@@ -1,0 +1,52 @@
+Version 1.0.0, released 11th October, 2010
+
+* Compatibility fix for Elgg 1.7.2, generated user icons were not displayed due to changed icon path conventions.
+
+--------------------------------------
+
+
+Version 1.0-RC1, released 18th Aug, 2010
+
+* Added support for Elgg 1.7
+* Added path entry for mysql/mysqldump binaries to eliminate cross platform issues with database backup and restore
+* Fixed sent/received message bug (wrong guid for recepient)
+* Updated documentation
+
+--------------------------------------
+
+
+Version 0.96 beta, released 09-07-2009
+
+* Fixed bug: in non-root installations (i.e. having your site installed in a subdirectory
+  of the root domain address, like http://your.domain.com/yourelggsite), progress bar 
+  related URL's were broken, progress bars were not visible.
+* Updated documentation
+
+--------------------------------------
+
+
+Version 0.95 beta, released 01-07-2009
+
+* Added support for Elgg 1.5
+* Added progress tracking for user generation and deletion.
+* Added faster method for user deletion (based on database backup and restore)
+* Changed tabbed inteface to use jqueries javascript library
+* Updated documentation.
+
+--------------------------------------
+
+
+Version 0.91 beta, released 12-02-2009
+
+* Added JMeter integration.
+* Updated documentation.
+
+--------------------------------------
+
+
+Version 0.9 beta, released 06-01-2009
+
+* Initial release.
+
+--------------------------------------
+

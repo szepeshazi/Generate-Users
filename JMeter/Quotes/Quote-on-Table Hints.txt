@@ -1,0 +1,82 @@
+;*********************************
+; Quote on Table
+;********************************* 
+; "Tips"
+; Tips for Quote-on-Table
+; (c) Badevlad & Leonid Prasol 2003-2007
+;*********************************
+;
+; Each citation should be separated from the next citation 
+; by an empty line. 
+;
+; The citation should be broken on lines of desirable length 
+; (but no more than 60 letters per line). 
+;
+; An amount of lines per citation should not exceed 25. 
+;
+; Each line beginning with ";" is a comment.
+;
+
+Welcome to the Quote-on-Table!
+We are sure that you will enjoy 
+using our Quote-On-Table for many 
+years to come. 
+--Denis Balykin & Leonid Prasol
+
+Quote-on-Table (Tip 1)
+When Quote-on-Table is started, 
+it place an application icon in 
+the Taskbar Notification area. If 
+you want to open main menu of the 
+programme - do right-click on this 
+icon.
+
+Quote-on-Table (Tip 2)
+The position of a text on the 
+screen can simply be moved by 
+your mouse at any time.
+
+Quote-on-Table (Tip 3)
+If you want to configure Quote-on-Table,
+open Settings window (double-click the 
+application icon in the Taskbar 
+Notification area).
+
+Quote-on-Table (Tip 4)
+Start Automatically with Windows - this switch 
+indicates, whether the program will start each 
+time, when the operation system will be loaded.
+
+Quote-on-Table (Tip 5)
+If you want to see Quote-on-Table text even 
+working with other applications - check Stay
+on Top item (Settings-Position-Stay on Top), 
+so the text on the screen will be placed on 
+top of all windows. 
+
+Quote-on-Table (Tip 6)
+Use Shadows and Contour to make 
+the text well seen on the screen.
+
+Quote-on-Table (Tip 7)
+If you want to use different fonts for 
+first or last lines of the text - it is 
+possible to make on a Font Page of the 
+Settings window.
+
+Quote-on-Table (Tip 8)
+If you have questions, comments and 
+suggestions, we should like to hear 
+from you through our e-mail address: 
+support@bdvnotepad.com
+
+Quote-on-Table (Tip 9)
+For further information and updates, 
+please, visit our web-site: 
+www.bdvnotepad.com
+
+
+Quote-on-Table (Tip 10)
+Do not forget to register the 
+programme, if you use it. 
+Be honour!

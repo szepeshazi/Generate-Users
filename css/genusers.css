@@ -1,0 +1,19 @@
+.genusers-label {
+	font-size: 1.0em; 
+	line-height: 2em; 
+	font-weight:normal;
+}
+
+.status-div, .status-div a {
+	line-height: 3em; 
+	text-align: center;
+	vertical-align: middle;
+	font-weight: bold;
+	font-size: 1.1em;
+}
+
+.error-div {
+	color: #ff0000;
+	font-weight: bold;
+	font-size: 1.1em;
+}
