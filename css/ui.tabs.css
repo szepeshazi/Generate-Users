@@ -1,0 +1,61 @@
+/*UI tabs*/
+.ui-tabs-nav {
+	/*resets*/margin: 0; padding: 0; border: 0; outline: 0; line-height: 1.3; text-decoration: none; font-size: 100%; list-style: none;
+	/*font-family: Verdana,Arial,sans-serif;*/
+	/*font-size: 1.1em;*/
+	float: left;
+	position: relative;
+	z-index: 1;
+	border-right: 1px solid #d3d3d3;
+	bottom: -1px;
+}
+.ui-tabs-nav ul {
+	/*resets*/margin: 0; padding: 0; border: 0; outline: 0; line-height: 1.3; text-decoration: none; font-size: 100%; list-style: none;
+}
+.ui-tabs-nav li {
+	/*resets*/margin: 0; padding: 0; border: 0; outline: 0; line-height: 1.3; text-decoration: none; font-size: 100%; list-style: none;
+	float: left;
+	border: 1px solid #d3d3d3;
+	/*border-right: none;*/
+}
+.ui-tabs-nav li a {
+	/*resets*/margin: 0; padding: 0; border: 0; outline: 0; line-height: 1.3; text-decoration: none; font-size: 100%; list-style: none;
+	float: left;
+	font-size: 1em;
+	font-weight: normal;
+	text-decoration: none;
+	padding: .3em 0.5em;
+	color: #555555;
+	background: #ffffff url(images/ffffff_40x100_textures_02_glass_65.png) 0 50% repeat-x;
+}
+.ui-tabs-nav li a:hover {
+	background: #e6e6e6 url(images/e6e6e6_40x100_textures_02_glass_75.png) 0 50% repeat-x;
+	color: #212121;
+}
+.ui-tabs-nav li.ui-tabs-selected {
+	border-bottom-color: #ffffff;
+	font-weight: bold;
+}
+.ui-tabs-nav li.ui-tabs-selected a, .ui-tabs-nav li.ui-tabs-selected a:hover {
+	background: #dadada url(images/dadada_40x100_textures_02_glass_75.png) 0 50% repeat-x;
+	color: #212121;
+	font-weight: bold;
+}
+.ui-tabs-panel {
+	/*resets*/margin: 0; padding: 0; border: 0; outline: 0; line-height: 1.3; text-decoration: none; font-size: 100%; list-style: none;
+	/*font-family: Verdana,Arial,sans-serif;*/
+	clear:left;
+	border: 1px solid #d3d3d3;
+	background: #ffffff url(images/ffffff_40x100_textures_01_flat_75.png) 0 0 repeat-x;
+	color: #222222;
+	padding: 0.2em 0.2em;	
+}
+.ui-tabs-hide {
+	display: none;/* for accessible hiding: position: absolute; left: -99999999px*/;
+	visibility: hidden;
+}
+
+.ui-tabs-show {
+	display: inline;
+	visibility: visible;
+}

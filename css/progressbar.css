@@ -1,0 +1,60 @@
+/* CSS tags for progress report area */
+
+.pbrow, .pbrow-act {
+	clear: both; 
+	line-height:2.5em;
+}
+
+.pbrow-act {
+	background-color: #eeeeee;
+}
+
+.pbrow-toprow {
+	border-top: 1px solid #000000;
+}
+
+.pbrow-headerrow {
+	font-weight: bold;
+}
+
+.pbrow-totalrow {
+	border-top: 1px solid #000000;
+	font-weight: bold;
+	padding-bottom: 10px;
+}
+
+
+.pbcol1, .pbcol2, .pbcol3, .pbcol4, .pbcol1-act, .pbcol2-act, .pbcol3-act, .pbcol4-act {
+	float: left;
+}
+
+.pbcol1, .pbcol3, .pbcol1-act, .pbcol3-act {
+	width:25%;
+}
+
+.pbcol2, .pbcol2-act {
+	width: 30%;
+}
+
+.pbcol3, .pbcol3-act {
+	text-align:center;
+}
+
+.pbcol4, .pbcol4-act {
+	width: 20%;
+	text-align:center;
+}
+
+.pbcol1-act, .pbcol2-act, .pbcol3-act, .pbcol4-act {
+	background-color: #eeeeee;
+}
+
+.pbrow-hidden {
+	display: none;
+	visibility: hidden;
+}
+
+.pbrow-visible {
+	display: block;
+	visibility: visible;
+}
