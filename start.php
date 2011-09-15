@@ -3,45 +3,28 @@
 	 * Elgg automated user generation plugin
 	 * 
 	 * @license http://www.gnu.org/licenses/old-licenses/gpl-2.0.html GNU Public License version 2
-	 * @author Andrï¿½s Szepeshï¿½zi
+	 * @author András Szepesházi
 	 * @copyright Skawa 2008
 	 */
 
-	/**
-	 *
-	 */
 	function hu_skawa_genusers_init() {
 
 		// Load system configuration
 		global $CONFIG;
-			
-		// Load the language file
-		register_translations($CONFIG->pluginspath . "hu_skawa_genusers/languages/");
 		elgg_register_page_handler('genusers','hu_skawa_genusers_page_handler');
-
 	}
 	
 	function hu_skawa_genusers_pagesetup() {
-
-		if (get_context() == 'admin' && isadminloggedin()) {
+		if (elgg_get_context() == 'admin' && elgg_is_admin_logged_in()) {
 			global $CONFIG;
-			add_submenu_item(elgg_echo('genusers:short'), $CONFIG->wwwroot . 'pg/genusers/');
+			$menu_item = new ElggMenuItem('genusers', elgg_echo('genusers:short'), $CONFIG->wwwroot . 'pg/genusers/');
+			elgg_register_menu_item('page', $menu_item);
 		}
 	}
 	
-	function hu_skawa_genusers_page_handler($page) 
-	{
+	function hu_skawa_genusers_page_handler($page) {
 		global $CONFIG;
-		
-		if ($page[0])
-		{
-			switch ($page[0])
-			{
-				default : include($CONFIG->pluginspath . "hu_skawa_genusers/index.php"); 
-			}
-		}
-		else
-			include($CONFIG->pluginspath . "hu_skawa_genusers/index.php"); 
+		include($CONFIG->pluginspath . "hu_skawa_genusers/index.php"); 
 	}
 	
 	global $CONFIG;
