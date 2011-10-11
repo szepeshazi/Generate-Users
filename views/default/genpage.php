@@ -220,8 +220,8 @@ $gen_form = <<< END
 					for (var singleprop in json) {
 						if (eval('json.'+singleprop+'.enabled')) {
 							$("#"+singleprop).progressBar(eval('json.'+singleprop+'.percent'));
-							$("#"+singleprop+"_elapsed").attr("innerHTML",eval('json.'+singleprop+'.elapsed'));
-							$("#"+singleprop+"_estimated").attr("innerHTML",eval('json.'+singleprop+'.estimated'));
+							$("#"+singleprop+"_elapsed").html(eval('json.'+singleprop+'.elapsed'));
+							$("#"+singleprop+"_estimated").html(eval('json.'+singleprop+'.estimated'));
 						}
 					}
 				});
